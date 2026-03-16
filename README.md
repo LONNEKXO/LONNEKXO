@@ -1,38 +1,83 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=LONNEKXO&fontAlign=50&fontAlignY=42&fontSize=74&animation=twinkling&color=0:000000,100:434343&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=LONNEKXO&fontAlign=50&fontAlignY=42&fontSize=74&animation=twinkling&color=0:000000,100:1a1a1a&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=LONNEKXO&color=white&style=for-the-badge"/>
-
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=900&duration=2600&center=true&vCenter=true&width=900&color=FFFFFF&lines=LONNEKXO;UI%2FUX+Designer;Frontend+Developer;C%23+%2B+WPF+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=900&duration=2600&center=true&vCenter=true&width=900&color=FFFFFF&lines=LONNEKXO;UI%2FUX+Designer;Frontend+Developer;C%23+%2B+WPF+Developer;Building+clean+interfaces"/>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-# 🖤 LONNEKXO
+# 🖤 ASCII GLITCH LOGO
 
-```txt id="um7ghd"
-SYSTEM STATUS
-────────────────────────────
-Developer : LONNEKXO
-Focus     : Websites • UI/UX • Desktop Apps
-Stack     : C# • WPF • Frontend
-Theme     : Dark / Minimal / Terminal
-Status    : Online
+```id="b4sc6d"
+██╗      ██████╗ ███╗   ██╗███╗   ██╗███████╗██╗  ██╗██╗  ██╗ ██████╗
+██║     ██╔═══██╗████╗  ██║████╗  ██║██╔════╝██║ ██╔╝╚██╗██╔╝██╔═══██╗
+██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  █████╔╝  ╚███╔╝ ██║   ██║
+██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔═██╗  ██╔██╗ ██║   ██║
+███████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗██║  ██╗██╔╝ ██╗╚██████╔╝
+╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-Tworzę **nowoczesne interfejsy i aplikacje**.
+---
 
-* 🌐 strony internetowe
-* 🎨 UI / UX design
-* 🖥 aplikacje desktopowe (C# + WPF)
+# 🌧 MATRIX RAIN
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="600"/>
+
+</p>
+
+---
+
+# 💻 TERMINAL
+
+```bash id="qt81q7"
+> boot system
+
+[ OK ] dark mode enabled
+[ OK ] ui/ux module loaded
+[ OK ] c# + wpf detected
+[ OK ] interface system ready
+
+> whoami
+LONNEKXO
+
+> skills
+UI / UX
+Frontend
+C# / WPF
+
+> mission
+build interfaces people enjoy using
+```
+
+---
+
+# 🧊 GLASS UI MODULES
+
+| MODULE      | DESCRIPTION                   |
+| ----------- | ----------------------------- |
+| 🌐 WEB      | modern responsive websites    |
+| 🎨 UI / UX  | clean interface design        |
+| 🖥 C# + WPF | desktop apps with polished UI |
+
+---
+
+# 🎮 PROJECT PANEL
+
+| PROJECT           | TYPE    | STATUS      |
+| ----------------- | ------- | ----------- |
+| Challenge Tracker | Web App | Active      |
+| UI Experiments    | UI/UX   | In Progress |
+| WPF Tools         | Desktop | Building    |
+
+---
 
 # 🧠 TECH STACK
 
@@ -42,24 +87,7 @@ Tworzę **nowoczesne interfejsy i aplikacje**.
 
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-# 💻 TERMINAL
-
-```bash id="v8gyxk"
-> user
-LONNEKXO
-
-> stack
-HTML CSS JS
-C# / WPF
-UI / UX
-
-> objective
-build clean interfaces
-```
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 # 📊 GITHUB STATS
 
@@ -71,7 +99,7 @@ build clean interfaces
 
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 # 📈 ACTIVITY GRAPH
 
@@ -81,27 +109,17 @@ build clean interfaces
 
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 # 🏆 TROPHIES
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LONNEKXO&theme=darkhub&no-frame=true&margin-w=12&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LONNEKXO&theme=darkhub&no-frame=true"/>
 
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-# 🧩 MODULES
-
-| Module   | Description            |
-| -------- | ---------------------- |
-| 🌐 Web   | Modern websites        |
-| 🎨 UI/UX | Clean interface design |
-| 🖥 WPF   | Desktop apps in C#     |
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -111,15 +129,16 @@ build clean interfaces
 
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 # ⚡ PHILOSOPHY
 
-```txt id="a0wvt6"
-good ui feels natural
-bad ui feels like a bug
+```txt id="n3u23e"
+clean ui
+smooth ux
+minimal design
 ```
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,100:434343"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,100:1a1a1a"/>
 </p>
