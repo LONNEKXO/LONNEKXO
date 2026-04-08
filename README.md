@@ -23,12 +23,12 @@ Stack: C# / WPF / Frontend
 Theme: Cyberpunk / Neon UI
 ```
 
-💻 Buduję rzeczy które **wyglądają dobrze i działają dobrze**.
+💻 I build things that **look good and work well**.
 
-* 🌐 nowoczesne **strony**
+* 🌐 modern **websites**
 * 🎨 **UI / UX design**
-* 🖥 aplikacje **desktopowe w C# + WPF**
-* ⚡ estetyczne interfejsy
+* 🖥 **desktop applications in C# + WPF**
+* ⚡ aesthetic **interfaces**
 
 ---
 
